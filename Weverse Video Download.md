@@ -13,7 +13,7 @@
     
     ![Make sure you're downloading the right extension by looking at this screenshot.](img/Untitled.png)
     
-    Make sure you're downloading the right extension by looking at this screenshot.
+    >Make sure you're downloading the right extension by looking at this screenshot.
     
 2. **N_m3u8DL-CLI-SimpleG**
     
@@ -23,15 +23,15 @@
     
     ![It's normal not to have a "Logs" folder when you first open it.](img/Untitled%201.png)
     
-    It's normal not to have a "Logs" folder when you first open it.
+    >It's normal not to have a "Logs" folder when you first open it.
     
     Double-click **N_m3u8DL-CLI-SimpleG**, and it will open like this:
     
     ![Screenshot 2023-09-04 211546.png](img/Screenshot_2023-09-04_211546.png)
     
 
-> **Tools Downloaded Successfully**
-> 
+ **Tools Downloaded Successfully ！！！**
+
 
 ---
 
