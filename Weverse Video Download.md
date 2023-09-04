@@ -1,6 +1,6 @@
 # Weverse Video Download
 
-[中文](READNE.md)/English
+[中文](README.md)/English
 
 <aside>
 💡 First, Download the Required Tools
